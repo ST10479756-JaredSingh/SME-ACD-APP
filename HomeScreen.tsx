@@ -60,7 +60,7 @@ export default function HomeScreen({ navigation }: { navigation: any }) {
       <View style={styles.section}>
         <Text style={styles.sectionTitle}>About Us</Text>
         <Text style={styles.sectionText}>
-          Founded in 2018 in Johannesburg, Empowering the Nation offers quality training programs for domestic workers, gardeners, and individuals seeking personal or professional growth. Our mission is to create opportunity, independence, and empowerment through skills development and education.
+          Founded in 2022 in Johannesburg, Empowering the Nation offers quality training programs for domestic workers, gardeners, and individuals seeking personal or professional growth. Our mission is to create opportunity, independence, and empowerment through skills development and education.
         </Text>
       </View>
 

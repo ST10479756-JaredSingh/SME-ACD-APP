@@ -1,24 +1,24 @@
 {
   "expo": {
-    "name": "xhawApp",
+    "name": "EMPOWERING THE NATION",
     "slug": "xhawApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Screenshot 2025-11-05 093718.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "../xhawApp/assets/Screenshot 2025-11-05 093718.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0a4d68"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "../xhawApp/assets/Screenshot 2025-11-05 093718.png",
+        "backgroundColor": "#0a4d68"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
