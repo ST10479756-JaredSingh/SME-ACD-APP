@@ -1,3 +1,15 @@
+/**
+ * 1. W3Schools - https://www.w3schools.com/
+ * 2. MDN Web Docs (Mozilla Developer Network) - https://developer.mozilla.org/
+ * 3. FreeCodeCamp - https://www.freecodecamp.org/
+ * 4. Codecademy (Free Tier) - https://www.codecademy.com/
+ * 5. The Odin Project - https://www.theodinproject.com/
+ * 6. GeeksforGeeks - https://www.geeksforgeeks.org/web-development/
+ * 7. TutorialsPoint - https://www.tutorialspoint.com/web_development_tutorials.htm
+ * 8. Coursera (Free HTML/CSS/JS Courses) - https://www.coursera.org/
+ * 9. Khan Academy - https://www.khanacademy.org/computing/computer-programming
+ * 10. JavaScript.info - https://javascript.info/
+ */
 import React from 'react';
 import { ScrollView, View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
